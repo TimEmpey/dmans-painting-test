@@ -21,7 +21,7 @@ _cc-handyman repo to streamline the file setup process for JS webpages with all 
 
 ## Setup/Installation Requirements
 
-* _Installing all packages with $ npm install._
+* _Installing all packages with $ npm install_
 * _Building the project using webpack with $ npm run build_
 * _Starting a development server with $ npm run start_
 * _Linting JS files in the src folder with $ npm run lint_
